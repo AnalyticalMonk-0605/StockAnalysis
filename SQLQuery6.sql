@@ -1,0 +1,5 @@
+SELECT TOP (4000) [Date]
+      ,[Close]
+      ,[Volume]
+      ,[Bank]
+  FROM [PracticeDB].[dbo].[stockdata]
